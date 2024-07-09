@@ -1,4 +1,5 @@
 // 연관검색어 크롤링
+// GOOS=windows GOARCH=amd64 go build -o output.exe
 package main
 
 import (
